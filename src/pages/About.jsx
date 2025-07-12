@@ -39,9 +39,7 @@ export default function About() {
               <li><strong>Email:</strong> dhruvrathod0706@gmail.com</li>
               <li>
                 <strong>LinkedIn:</strong>{' '}
-                <a href="https://linkedin.com/in/dhruv" target="_blank" rel="noopener noreferrer" style={{color:"black"}}>
-                  linkedin.com/in/dhruv
-                </a>
+                <a href="https://www.linkedin.com/in/dhruv-rathod-b78398321" target="_blank" rel="noopener noreferrer" style={{color:"black"}}>linkedin.com/in/dhruv</a>
               </li>
             </ul>
           </div>
