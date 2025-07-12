@@ -23,7 +23,7 @@ export default function About() {
               <li><strong>Institute:</strong> GIDC Degree Engineer College</li>
               <li><strong>University:</strong> Gujarat Technological University</li>
               <li><strong>Year of Passing:</strong> 2025</li>
-              <li><strong>CGPA:</strong> 7.64</li>
+              <li><strong>CGPA:</strong> 7.94</li>
             </ul>
           </div>
 
