@@ -61,7 +61,7 @@
           <p className="mb-1">© {new Date().getFullYear()} Dhruv Rathod — MERN Stack Developer</p>
           <div className="d-flex justify-content-center gap-3">
             <a href="https://github.com/Dhruv-Rathod26" target="_blank" className="text-white text-decoration-none">GitHub</a>
-            <a href="https://linkedin.com/in/dhruv" target="_blank" className="text-white text-decoration-none">LinkedIn</a>
+           <a href="https://www.linkedin.com/in/dhruv-rathod-b78398321" target="_blank" className="text-white text-decoration-none">LinkedIn</a>
           </div>
         </footer>
       </div>
